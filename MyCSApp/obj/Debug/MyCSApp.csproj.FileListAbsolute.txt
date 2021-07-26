@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\MyCSApp\MyCSApp\bin\Debug\MyCSApp.exe.config
+C:\Users\admin\source\repos\MyCSApp\MyCSApp\bin\Debug\MyCSApp.exe
+C:\Users\admin\source\repos\MyCSApp\MyCSApp\bin\Debug\MyCSApp.pdb
+C:\Users\admin\source\repos\MyCSApp\MyCSApp\obj\Debug\MyCSApp.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\MyCSApp\MyCSApp\obj\Debug\MyCSApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MyCSApp\MyCSApp\obj\Debug\MyCSApp.exe
+C:\Users\admin\source\repos\MyCSApp\MyCSApp\obj\Debug\MyCSApp.pdb
